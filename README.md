@@ -1,15 +1,9 @@
-IXD302 - Narrative and Storytelling
+<b>IXD302 - Narrative and Storytelling</b>
 
-Bird Project Deliverable
+Takahe Bird Project Website: https://andrewmc1994.github.io/IXD302-Takahe-Bird-Project/
 
-Moodboard - Paper moodboard.
+Moodboard - Sketchbook: https://raw.githubusercontent.com/AndrewMC1994/ProjectsRepository/master/Moodboard-Digital.jpg 
 
-Style Tile - Style tile displaying elements of how the webpage will look like.
+Style Tile - https://github.com/AndrewMC1994/ProjectsRepository/blob/master/Style%20Tile.pdf
 
-HTML - Content organised using HTML.
-
-Map Prototype One - Exploring google map styles to create a map to show New Zealand.
-
-Map Prototype Two
-
-Final Website - Final illustrated narrative website.
+HTML Markup - https://andrewmc1994.github.io/MarkupBird/ 
