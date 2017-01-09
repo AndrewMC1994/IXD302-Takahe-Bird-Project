@@ -1,4 +1,4 @@
-IXD302-IXD302-Takahe-Bird-Project
+# IXD302-Takahe-Bird-Project
 
 Takahe Bird Project Website: https://andrewmc1994.github.io/IXD302-Takahe-Bird-Project/
 
